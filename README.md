@@ -1,6 +1,6 @@
 # Virtual Vending Machine
 
-A virtual vending machine
+A virtual vending machine built using the MERN stack.
 
 ## Initial Setup
 
